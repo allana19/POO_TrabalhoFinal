@@ -1,0 +1,17 @@
+[ {
+  "nome" : "Martelo",
+  "quantidade" : 2,
+  "preco" : 33.0
+}, {
+  "nome" : "Parafuso",
+  "quantidade" : 420,
+  "preco" : 3.2
+}, {
+  "nome" : "Amortecedor",
+  "quantidade" : 250,
+  "preco" : 160.0
+}, {
+  "nome" : "Teclado",
+  "quantidade" : 42,
+  "preco" : 32.65
+} ]
